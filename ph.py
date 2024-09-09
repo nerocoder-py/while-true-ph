@@ -1,3 +1,4 @@
 import webbrowser
 
-webbrowser.open ('Pornhub.com')
+while true:
+    webbrowser.open('Pornhub.com') 
